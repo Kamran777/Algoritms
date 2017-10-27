@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.navWidth {
+  width: 1000px; }
+
+.font {
+  font-size: 40px; }
+
+#homeHeader {
+  height: 946px;
+  width: 1349px;
+  background: url(../images/headerImage.jpg) no-repeat center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; }
+
+.width {
+  width: 1200px; }
+
+.fixed-top {
+  max-width: 1140px;
+  margin: 30px auto; }
+
+.reng {
+  color: white; }
+
+#homeNavbarBrand {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 39px;
+  font-family: 'Oswald', sans-serif; }
+
+#homeNavA {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  line-height: 21px;
+  margin: 15px;
+  left: 60px;
+  position: relative; }
+  #homeNavA:hover {
+    color: #fce761;
+    transition: 0.3s; }
+
+p {
+  margin-top: 20%;
+  margin-bottom: 30px; }
+
+.topNav {
+  position: relative;
+  top: 30px; }
+
+/*# sourceMappingURL=style.css.map */
